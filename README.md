@@ -18,9 +18,7 @@
   <a href="mailto:tu-email@dominio.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/tu-usuario-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+
 </div>
 
 ---
@@ -31,9 +29,9 @@ Soy un apasionado de la tecnología y la arquitectura de soluciones en la nube. 
 
 - 🔭 Actualmente estoy trabajando en proyectos de modernización de aplicaciones a arquitecturas serverless.
 - 🌱 Estoy aprendiendo más sobre Machine Learning y cómo integrarlo en soluciones de datos en AWS.
-- 💬 Pregúntame sobre estrategias de migración a la nube (las "6 R's"), Infrastructure as Code (IaC) y FinOps.
-- 📫 Cómo contactarme: [tu-email@dominio.com](mailto:tu-email@dominio.com)
-- 😄 Dato curioso: En mi tiempo libre, disfruto construyendo y programando drones.
+- 💬 Pregúntame sobre estrategias de migración a la nube (las "7 R's"), Infrastructure as Code (IaC) y FinOps.
+- 📫 Cómo contactarme: [jbarragan@sudozu.com]
+- 😄 Dato curioso: 
 
 ---
 
