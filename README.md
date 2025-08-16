@@ -73,7 +73,7 @@ Soy un apasionado de la tecnología y la arquitectura de soluciones en la nube. 
 ### **🏆 Certificaciones**
 
 <p align="center">
-  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fd3a0/aws-certified-solutions-architect-professional.png" alt="AWS Certified Solutions Architect – Professional" width="100">
-  <img src="https://images.credly.com/size/110x110/images/b08c06e8-1396-410c-a111-255e4271970b/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="100">
+  <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="100">
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="100">
 
 </p>
