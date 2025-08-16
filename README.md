@@ -53,9 +53,6 @@ Soy un apasionado de la tecnología y la arquitectura de soluciones en la nube. 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://developer.hashicorp.com/vault" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" alt="vault" width="40" height="40"/>
-  </a>
 </p>
 
 #### **☁️ Cloud & Servicios AWS**
